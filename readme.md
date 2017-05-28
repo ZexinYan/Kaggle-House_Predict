@@ -232,3 +232,5 @@ train_sizes, train_scores, test_scores = learning_curve(
 plot_learning_curve(train_sizes, train_scores, test_scores, title='Learning curve for RF Regressor')    
 ```
 
+# Reference
+[Regression to Predict House Prices](https://www.kaggle.com/eliekawerk/regression-to-predict-house-prices/notebook)
